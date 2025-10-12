@@ -4,3 +4,4 @@ docs: update README with project description
 feat: add name and professional title to header
 feat: add contact information section
 style: improve spacing in contact section
+feat: add favicon
