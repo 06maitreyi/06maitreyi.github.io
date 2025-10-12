@@ -3,3 +3,4 @@ This is my resume website. I might add my Portfolio projects to this in the futu
 docs: update README with project description
 feat: add name and professional title to header
 feat: add contact information section
+style: improve spacing in contact section
